@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SFMLConnected.cpp">
+    <ClCompile Include="src\SFMLConnected.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
